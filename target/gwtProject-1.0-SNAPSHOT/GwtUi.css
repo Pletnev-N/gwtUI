@@ -1,0 +1,28 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+#header {
+  font-size: 2em;
+  font-weight: bold;
+  color: #777777;
+  margin: 40px 200px 50px;
+}
+
+.bookTable {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.incorrectField {
+  background-color: #ffb5a1;
+}
+
+.mainPanel {
+  margin-left: 30px;
+}
+
+.pageChangerLabel {
+  margin-left: 3px;
+  margin-right: 3px;
+}
